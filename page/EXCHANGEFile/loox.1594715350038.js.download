@@ -1,0 +1,3 @@
+!(function() {
+  console.log("Loox script loaded - please reinstall Loox to enable photo/video reviews - https://loox.io/app/reinstall");
+})();
