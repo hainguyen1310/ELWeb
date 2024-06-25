@@ -10023,7 +10023,8 @@ screen and (min-width: 1008px) and (hover: hover) {
 }
 
 .Slideshow__ImageContainer {
-    height: 100%
+    height: 100%;
+    background-image: url(c2af6a9b-8a48-4446-a46e-71581931ed18.jpg);
 }
 
 .Slideshow--fullscreen .Slideshow__Image {
